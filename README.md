@@ -52,3 +52,4 @@ action of type `'DELETE_BAND'` and passes through that band's id as the
 6. Finally, you will need to add code to handle the `DELETE_BAND` action in the 
 reducer. When a band's delete button is pressed, it will return a new list of 
 bands that does not include the deleted band.
+
